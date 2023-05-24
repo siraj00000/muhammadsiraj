@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraj0000" alt="siraj0000" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sirajah75920531" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sirajah75920531?logo=twitter&style=for-the-badge" alt="https://twitter.com/sirajah75920531" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sirajah75920531" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sirajah75920531?logo=twitter&style=for-the-badge" alt="https://twitter.com/sirajah75920531" /></a> </p>
 
 - 🔭 I’m currently working on **Fascure ERP**
 
