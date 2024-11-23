@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/duyspylge/image/upload/v1684316225/I_will_develop_or_fix_mern_stack_node_react_mongodb_express_js_web_applications_I_will_be_your_react_js_developer_next_js_using_typescript_for_mern_stack_I_will_make_web_app_react_application_mern_stack_development_Web_gdulum.png)](https://github.com/siraj00000)
 <h1 align="center">Hi 👋, I'm Muhammad Siraj</h1>
-<h3 align="center">Experienced Full Stack Developer | 3 Years of Industry Expertise</h3>
+<h3 align="center">Experienced Full Stack Developer | 5 Years of Industry Expertise</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/duyspylge/image/upload/v1684315793/coder_ioigsq.avif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siraj0000&label=Profile%20views&color=0e75b6&style=flat" alt="siraj0000" /> </p>
 
